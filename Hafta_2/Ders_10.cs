@@ -8,9 +8,9 @@ namespace Hafta_2
 {
     internal class Ders_10
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Tür Dönüşümleri");
-        }
+        //static void Main(string[] args)
+        //{
+        //    Console.WriteLine("Tür Dönüşümleri");
+        //}
     }
 }
