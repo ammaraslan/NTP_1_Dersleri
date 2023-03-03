@@ -10,7 +10,7 @@ namespace Hafta_2
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Tür Dönüşümleri");
         }
     }
 }
