@@ -8,21 +8,21 @@ namespace Hafta_2
 {
     internal class Ders_11
     {
-        static void Main(string[] args)
-        {
-            int deger = 300;
+        //static void Main(string[] args)
+        //{
+        //    int deger = 300;
 
-            unchecked
-            {
-                byte a = (byte)deger;
-                Console.WriteLine(a);
-            }
-            checked
-            {
-                byte a = (byte)deger;
-                Console.WriteLine(a);
-            }
+        //    unchecked
+        //    {
+        //        byte a = (byte)deger;
+        //        Console.WriteLine(a);
+        //    }
+        //    checked
+        //    {
+        //        byte a = (byte)deger;
+        //        Console.WriteLine(a);
+        //    }
            
-        }
+        //}
     }
 }
